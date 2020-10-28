@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>196.jpg</filename>
+  <path>.\dataset\images\196.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>512</width>
+    <height>512</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>ship</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>64</xmin>
+      <ymin>250</ymin>
+      <xmax>254</xmax>
+      <ymax>300</ymax>
+    </bndbox>
+  </object>
+</annotation>
